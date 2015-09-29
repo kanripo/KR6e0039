@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說如來興顯經
+#+DATE: 2015-09-28 22:56:07.046934
+#+PROPERTY: JUAN 0
